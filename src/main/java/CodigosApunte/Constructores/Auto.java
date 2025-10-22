@@ -26,7 +26,7 @@ public class Auto {
     }
 
     //Constructor con algunos parametros
-    //En este caso, digamos que queremos solo crear autos Blancos y electricos, entonces no necesitamos esos
+    //En este caso, digamos que queremos solo crear autos Rojos y electricos, entonces no necesitamos esos
     //parametros en el constructor, porque ya los sabemos
     public Auto(String marca, int modelo, int cantidadPuertas) {
         this.color = "Rojo"; // Valor por defecto
